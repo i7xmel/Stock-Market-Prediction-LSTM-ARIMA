@@ -35,5 +35,11 @@ The notebook sequentially:
 - Matplotlib, Plotly for visualizations
 - Jupyter Notebook for interactive analysis
 
+## Screenshots
+
 <img width="962" height="724" alt="image" src="https://github.com/user-attachments/assets/523a2484-5a92-410b-bbb6-68d9c937c7a0" />
+<img width="853" height="644" alt="image" src="https://github.com/user-attachments/assets/3862adef-1a17-4a9f-839c-4243ad20410f" />
+<img width="929" height="610" alt="image" src="https://github.com/user-attachments/assets/6c65c99c-1074-46cd-9eda-89c171e3c8f1" />
+
+
 
