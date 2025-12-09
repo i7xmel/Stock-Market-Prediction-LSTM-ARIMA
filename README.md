@@ -9,6 +9,7 @@ Stock market analysis and visualization for three major companies: Ford (F), Ber
 - Data quality validation and cleaning
 - Interactive visualizations with Plotly and Matplotlib
 - 6-year historical data analysis (2018-2024)
+  
 
 ## Usage
 The notebook sequentially:
